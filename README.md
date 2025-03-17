@@ -1,6 +1,6 @@
 # Judge Anything
 
-This is the repository that contains source code for the [JudgeAnything Website](https://urrealhero.github.io/judgeanything.github.io).
+This is the repository that contains source code for the [JudgeAnything Website](https://urrealhero.github.io/judgeanythingweb/).
 
 If you find Judge Anything useful for your work please cite:
 ```
